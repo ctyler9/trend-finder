@@ -1,2 +1,0 @@
-# trend-finder
-Finding Trends
